@@ -1,7 +1,7 @@
 # Gustavo_Portfolio
 Data Analytics/Business Intelligence Portfolio 
 
-# Project 1: Sales Dashboard: Profit, costs, Revenues.
+# [Project 1: Sales Dashboard: Profit, costs, Revenues.](https://github.com/GustavoAmorimMello/sales_report_POWERBI)
 
 * Created a dashboard to visualize the revenues, profits and costs of a sales department using Power Bi.
 
